@@ -17,6 +17,7 @@ Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) 
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
 <H3>Program: </H3>
+
 ```
 
 import numpy as np
@@ -76,4 +77,5 @@ print(classification_rep)
 <img width="580" height="338" alt="image" src="https://github.com/user-attachments/assets/680df3cc-8038-437b-ad26-a60ddaf37326" />
 
 <H3>Results:</H3>
+
 Thus, an ANN with MLP is constructed and trained to predict the heart attack using python.
